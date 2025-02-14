@@ -12,7 +12,7 @@ This repository is designed to help programmers enhance their **algorithmic skil
 ✅ **Regular Updates** – More problems added frequently  
 
 ## 💡 How to Use?  
-1️⃣ Browse the file and find your desired problem.
+1️⃣ Browse the file and find your desired problem.  
 2️⃣ Open a solution file to see **optimized C++ code.**  
 3️⃣ Try solving the problem yourself on **[Beecrowd](https://www.beecrowd.com.br)** before checking the solution.  
 4️⃣ **Star ⭐ the repo** if you find it helpful!  
